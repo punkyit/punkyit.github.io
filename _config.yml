@@ -16,7 +16,7 @@
 title: Punky IT
 email: diedra@punky-it.co
 description: > # this means to ignore newlines until "baseurl:"
-  This is my scrapbook of projects. I'd call it a portfolio, but who am I kidding? It's shit. Anyway, I love learning new techie things, but I rarely do so gracefully. This site is here because I'm not afraid to fall on my face and demonstrate to others that they're not alone in their failures.
+  This is my scrapbook of projects. I'd call it a portfolio, but who am I kidding? It's shit. Enjoy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fuwomanchu
