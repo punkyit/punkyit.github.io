@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Standby!"
+title:  "Busey Ipsum Test"
 date:   2017-07-04
-categories: update
+categories: test
 ---
 Busey ipsum dolor sit amet. Have you urinated? Have you drained your bladder? Are you free? Because if you haven't it will only come out later. I'm giving you some information that your bodily fluids may penetrate your clothing fibre's without warning.It's good to yell at people and tell people that you're from Tennesee, so that way you'll be safe.
 
