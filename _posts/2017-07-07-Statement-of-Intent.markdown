@@ -2,7 +2,7 @@
 layout: post
 title:  "Obligitory Anecdotal First Post"
 date:   2017-07-07
-categories: first post, introduction, beginning
+categories: blog
 ---
 I used to work in a library and hoarded books that looked interesting to me (no joke, it was rare that I *didn't* have my library card maxed out.) Most of these books I didn't even read, but [Show Your Work!](https://medium.com/show-your-work/10-ways-to-share-your-creativity-and-get-discovered-7fb5fdfbc068) by Austin Kleon deviated greatly from that category.
 
