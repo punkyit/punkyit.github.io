@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: <imc src="https://github.com/punkyit/punkyit.github.io/blob/master/Punky-IT!.png?raw=true">
+title: █▒░ ᴩυᴎᴋү•ιт ░▒█
 email: diedra@punky-it.co
 description: > # this means to ignore newlines until "baseurl:"
   Scrapbook + Portfolio = Scrapfolio. This is where I turn my process into a product.
