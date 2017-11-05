@@ -2,7 +2,14 @@
 layout: default
 
 ---
-
+ <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div> 
 
 <button name="button" onclick="http://punky-it.co/blog">Blog</button> | <button name="button" onclick="http://punky-it.co/about">About</button> | <button name="button" onclick="http://punky-it.co/pictures">Pictures</button>
 
