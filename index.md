@@ -1,6 +1,11 @@
 ---
 layout: default
+
 ---
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
