@@ -3,9 +3,8 @@ layout: default
 
 ---
 
-Lorem ipsum dolor sit amet.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="http://punky-it.co/blog">Blog</button> | <button name="button" onclick="http://punky-it.co/about">About</button> | <button name="button" onclick="http://punky-it.co/pictures">Pictures</button>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
