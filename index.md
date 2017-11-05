@@ -5,7 +5,7 @@ layout: default
 
 Lorem ipsum dolor sit amet.
 
-[Click me](http://www.google.com){: .btn}
+[button url="http://www.google.com"]
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
