@@ -9,3 +9,18 @@ I don’t have a formal education in technology, but I do enjoy learning. Most o
 
 Since that time, I’ve developed an interest in the design and functionality of the technology we use. I see it as a beneficial and powerful tool that, when utilized effectively, has endless potential to provide positive benefits to us. This intrigues me greatly and inspires me to learn, so that I may undestand and contribute.
 
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>Making the Web Beautiful!</div>
+  </body>
+</html>
