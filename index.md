@@ -12,10 +12,10 @@ Since that time, I’ve developed an interest in the design and functionality of
 <html>
   <head>
     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Shadows Into Light">
+          href="https://fonts.googleapis.com/css?family=Satisfy">
     <style>
       body {
-        font-family: 'Shadows Into Light', serif;
+        font-family: 'Satisfy', serif;
         font-size: 48px;
       }
     </style>
