@@ -12,10 +12,10 @@ Since that time, I’ve developed an interest in the design and functionality of
 <html>
   <head>
     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Architects Daughter">
+          href="https://fonts.googleapis.com/css?family=Nixie One">
     <style>
       body {
-        font-family: 'Architects Daughter', serif;
+        font-family: 'Nixie One', serif;
         font-size: 48px;
       }
     </style>
