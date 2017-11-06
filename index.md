@@ -12,15 +12,12 @@ Since that time, I’ve developed an interest in the design and functionality of
 <html>
   <head>
     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Permanent Marker">
+          href="https://fonts.googleapis.com/css?family=Shadows Into Light">
     <style>
       body {
-        font-family: 'Permanent Marker', serif;
+        font-family: 'Shadows Into Light', serif;
         font-size: 48px;
       }
     </style>
   </head>
-  <body>
-    <div>Making the Web Beautiful!</div>
-  </body>
 </html>
