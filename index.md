@@ -12,10 +12,10 @@ Since that time, I’ve developed an interest in the design and functionality of
 <html>
   <head>
     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Tangerine">
+          href="https://fonts.googleapis.com/css?family=Permanent Marker">
     <style>
       body {
-        font-family: 'Tangerine', serif;
+        font-family: 'Permanent Marker', serif;
         font-size: 48px;
       }
     </style>
