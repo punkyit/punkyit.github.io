@@ -12,10 +12,10 @@ Since that time, I’ve developed an interest in the design and functionality of
 <html>
   <head>
     <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Satisfy">
+          href="https://fonts.googleapis.com/css?family=Architects Daughter">
     <style>
       body {
-        font-family: 'Satisfy', serif;
+        font-family: 'Architects Daughter', serif;
         font-size: 48px;
       }
     </style>
