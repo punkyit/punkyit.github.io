@@ -2,6 +2,26 @@
 layout: default
 ---
 
+
+### And a nested list:
+
+- Peckham Industries, Inc.
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- Apple, Inc.
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- Human Plus Digital Literacy Services
+  - level 2 item
+  - level 2 item
+- East Lansing Public Library
+
+
+
+___________________________________________________
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
