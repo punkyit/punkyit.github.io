@@ -1,5 +1,11 @@
-title: Cayman theme
+title: Punky IT
 description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+body {
+  font-family: 'Nixie One', serif;
+  font-size: 20px;
+  text-shadow: 4px 4px 4px #aaa;
+}
