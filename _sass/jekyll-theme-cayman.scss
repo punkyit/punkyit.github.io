@@ -27,7 +27,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Nixie One", sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
@@ -87,10 +87,10 @@ a {
 }
 
 .page-header {
-  color: 5ed2e6;
+  color: $header-heading-color;
   text-align: center;
-  background-color: b4babc;
-  background-image: linear-gradient(120deg, b4babc, 5ed2e6);
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 5rem 6rem;
