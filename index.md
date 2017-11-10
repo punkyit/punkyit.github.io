@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Nixie One">
+    <style>
+      body {
+        font-family: 'Nixie One', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+
 
 ### A Geek Who Speaks Human
 
@@ -14,19 +27,5 @@ I'm looking for opportunities to expand beyond the realm of end-user support. I 
 
  xo Diedra
 
-
-<html>
-  <head>
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Tangerine">
-    <style>
-      body {
-        font-family: 'Nixie One', serif;
-        font-size: 48px;
-      }
-    </style>
-  </head>
-  <body>
-    <div>Making the Web Beautiful!</div>
   </body>
 </html>
