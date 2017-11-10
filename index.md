@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### Howdy!
+### A Geek Who Speaks Human
 
 Hey, thanks for stopping by. You're likely here because you saw my website on my resume. It's great that you're here, and I hope you'll stick around so I can introduce myself a little further.
 
@@ -12,4 +12,4 @@ If you've reviewed my resume, it's pretty clear that I have been working in end 
 I'm looking for opportunities to expand beyond the realm of end-user support. I would love to become a part of a dynamic team that will help me hone my skills further and expand my current capabilities. I'm currently working toward a couple of certifications, and I enjoy tinkering around with electronics and programming. Check back for updates on my endeavors. :)
 
 
-  - Diedra
+ xo Diedra
