@@ -7,10 +7,10 @@ Hey, thanks for stopping by. You're likely here because you saw my website on my
 
 If you've reviewed my resume, it's pretty clear that I have been working in end user support for a while. I enjoy working with people and technology. I'm not afraid to help clear barriers that disrupt a user's workflow, whether it's for work-related or personal tasks. I believe anyone can become "tech savvy" with the right person showing them the way.
 
-I'm looking for opportunities to expand beyond the realm of end-user support. I would love to become a part of a dynamic team that will help me hone my skills further and expand my current capabilities. I'm currently working toward a couple of certifications, and I enjoy tinkering around with electronics and programming. Check back for updates on my endeavors. :)
+I'm looking for opportunities to expand beyond the realm of end-user support. I would love to become a part of a dynamic team that will help me hone my skills further and expand my current capabilities. I'm currently working toward a couple of certifications, and I enjoy tinkering around with electronics and programming. Check back for updates on my endeavors.
 
 
- xo Diedra
+♥ Diedra
  
  <html>
   <head>
