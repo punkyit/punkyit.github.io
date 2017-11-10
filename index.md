@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### A Geek Who Speaks Human
+### You're here!
 
 Hey, thanks for stopping by. You're likely here because you saw my website on my resume. It's great that you're here, and I hope you'll stick around so I can introduce myself a little further.
 
