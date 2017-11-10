@@ -18,6 +18,8 @@ I'm looking for opportunities to expand beyond the realm of end-user support. I 
           href="https://fonts.googleapis.com/css?family=Nixie One">
    <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Lobster Two">
+   <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Permanent Marker">
     <style>
       body {
         font-family: 'Nixie One', 'Lobster Two', serif;
