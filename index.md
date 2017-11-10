@@ -20,7 +20,7 @@ I'm looking for opportunities to expand beyond the realm of end-user support. I 
           href="https://fonts.googleapis.com/css?family=Lobster Two">
     <style>
       body {
-        font-family: 'Nixie One', serif;
+        font-family: 'Nixie One', 'Lobster Two', serif;
         font-size: 48px;
       }
     </style>
