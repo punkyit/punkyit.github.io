@@ -13,3 +13,6 @@ I'm looking for opportunities to expand beyond the realm of end-user support. I 
 
 
  xo Diedra
+ 
+ <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Font+Name">
